@@ -17,3 +17,5 @@ def setup():
     niebieski_kwadrat_wiekszy = NiebieskiKwadrat(100)
     niebieski_kwadrat_mniejszy.sketch_niebieski(300, 300)
     niebieski_kwadrat_wiekszy.sketch_niebieski(100, 270)
+    
+# 2 pkt, łądny przejrzysty przykład :)
